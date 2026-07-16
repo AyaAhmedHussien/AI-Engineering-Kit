@@ -7,10 +7,16 @@ Language: Python
 AI Frameworks: Hugging Face Transformers (pipeline API)
 Environment: Google Colab & Google Drive (for persistent storage)
 Data Integration: REST APIs
+
+
+
 Key Achievements
 Cloud Environment Setup: Configured a persistent cloud-based development environment using Google Colab integrated with Google Drive.
 API Interaction: Implemented successful HTTP requests to interface with external web services.
 Sentiment Analysis: Deployed a state-of-the-art distilbert-base-uncased model to process and classify text sentiment with high precision.
+
+
+
 Project Structure
 /AI-Engineer-Starter-Kit
 ├── notebooks/
